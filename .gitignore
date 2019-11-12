@@ -1,0 +1,17 @@
+#
+# git
+#
+
+
+/output/
+/uav/
+/nav_dst/
+/kite/
+/exported_1/
+/exported_2/
+/123/
+/.idea/
+
+*.rar
+*.zip
+
