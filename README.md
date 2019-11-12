@@ -16,7 +16,7 @@ updated: Nov 12 2019
 pip install -r requirements.txt
 ``` 
 
-## The functions provided by each script.
+## Functions provided by each script.
 ### 1. picture_first_filter.py
  **functional specification**: filter all image files to eliminate very small & corrupted images. 
 ### 2. scale_process.py
